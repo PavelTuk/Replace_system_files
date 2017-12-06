@@ -1,6 +1,6 @@
 # Replace_system_files
 
-В данном репозитории содержится решение следующей задачи:
+В данном репозитории содержится решение и unit-тесты для следующей задачи:
 
 Develop C# console application and Unit tests for it.
 
